@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student of Data Science.<br>I’m building my expertise in Machine Learning🤖, Stat, and Data Visualization 🎨📈<br>I’m passionate about coding 💻.<br>you’ll find me learning about the latest tech trends📱.<br>Let’s connect, collaborate 🤝, and create something impactful together!
+🎓Student of Data Science.<br>💡I’m building my expertise in Machine Learning🤖, Stat, and Data Visualization 🎨📈<br>💡I’m passionate about coding 💻.<br>💡you’ll find me learning about the latest tech trends📱.<br>🔗Let’s connect, collaborate 🤝, and create something impactful together!
 
 
 ## 🌐 Socials:
